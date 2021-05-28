@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --vdkmagenta: hsl(300, 43%, 22%);
+    --softpink: hsl(333, 80%, 67%);
+    --dkgraymagenta: hsl(303, 10%, 53%);
+    --ltgraymagenta: hsl(300, 24%, 96%);
+    --white: hsl(0, 0%, 100%);
+}
+
+
+body{
+    font-family: 'Spartan', sans-serif;
+    font-size: 15px;
+}
+
+
+
+
+/* Footer */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
